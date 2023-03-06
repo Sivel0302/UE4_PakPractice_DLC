@@ -1,0 +1,2 @@
+UE4_PakPractice_DLC/Plugins/Chapter2/AssetRegistry.bin	2023-03-06T17:15:44.444Z
+UE4_PakPractice_DLC/Plugins/Chapter2/Metadata/DevelopmentAssetRegistry.bin	2023-03-06T17:15:44.444Z

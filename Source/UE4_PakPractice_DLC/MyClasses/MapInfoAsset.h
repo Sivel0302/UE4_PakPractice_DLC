@@ -39,7 +39,7 @@ UBlueprintFunctionLibrary
 };
 
 
-UCLASS()
+UCLASS(Blueprintable)
 class UE4_PAKPRACTICE_DLC_API UMapInfoAsset : public UObject
 {
 	GENERATED_BODY()
